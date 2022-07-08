@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif" align="center" style="width:400" />
+<img src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif" align="center" style="width:400 height:200" />
 </div> 
 <h1 align="center">Hi 👋, I'm Tharun reddy</h1>
 <h3 align="center"> A passionate Full Stack developer from India.!</h3>
