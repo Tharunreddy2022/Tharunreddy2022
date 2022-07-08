@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://khushboogoel01.github.io)
 <div align="center">
-<img src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif" align="center" style="width:70%" />
+<img src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif" align="center" style="width:40%" />
 </div> 
 <h1 align="center">Hi 👋, I'm Tharun reddy</h1>
 <h3 align="center"> A passionate Full Stack developer from India.!</h3>
